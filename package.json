@@ -1,0 +1,25 @@
+{
+  "name": "lucky-blocks-contract",
+  "version": "0.0.1",
+  "description": "Fortune in blocks",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandyphi/lucky-blocks-contract.git"
+  },
+  "author": "Mandy Phi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mandyphi/lucky-blocks-contract/issues"
+  },
+  "homepage": "https://github.com/mandyphi/lucky-blocks-contract#readme",
+  "devDependencies": {
+    "solium": "^1.1.6"
+  }
+}
